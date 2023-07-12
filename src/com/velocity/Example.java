@@ -6,6 +6,7 @@ public class Example {
 		// TODO Auto-generated method stub
              
 		System.out.println("This is Example class");
+		System.out.println("This is newely generated sout");
 	}
 
 }
